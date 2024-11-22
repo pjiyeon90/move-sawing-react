@@ -4,7 +4,7 @@ import { onClick } from '../api/api';
 
 import Carousel from "react-multi-carousel";
 import 'react-multi-carousel/lib/styles.css';
-// import '../css/sawing.scss'
+import '../css/sawing.scss'
 
 const List2 = () => {
     let [list,setList] = useState([]);
