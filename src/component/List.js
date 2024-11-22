@@ -2,7 +2,7 @@
 import React, { useEffect, useState } from 'react'
 import Carousel from "react-multi-carousel";
 import 'react-multi-carousel/lib/styles.css';
-// import '../css/sawing.scss'
+import '../css/sawing.scss'
 import { getDetail } from '../api/api.js';
 import Popup from './Popup.js';
 
