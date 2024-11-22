@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation } from 'react-router-dom';
-import '../css/search.scss'
+
 
 const SearchPage = () => {
   const location = useLocation();
