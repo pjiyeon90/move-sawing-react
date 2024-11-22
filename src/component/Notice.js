@@ -3,7 +3,7 @@ import React from 'react'
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
-import '../css/sawing.scss';
+// import '../css/sawing.scss';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Navigation } from 'swiper/modules';
 
